@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project measures temperature and humidity using a DHT22 sensor and displays the readings on an SSD1360 OLED screen. It is implemented with bare-metal C (no HAL/LL or RTOS) on an STM32<img width="1472" height="969" alt="1" src="https://github.com/user-attachments/assets/37a9c37d-2d10-45cf-b129-6fc409adbc25" />
+This project measures temperature and humidity using a DHT22 sensor and displays the readings on an SSD1360 OLED screen. It is implemented with bare-metal C (no HAL/LL or RTOS) on an STM32
 F411 microcontroller. The goal is to demonstrate direct register manipulation and peripheral configuration for embedded development.
 
 ## Features
