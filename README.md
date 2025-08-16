@@ -24,11 +24,11 @@ F411 microcontroller. The goal is to demonstrate direct register manipulation an
 
 | Device      | STM32F411 Pin | Notes                |
 |-------------|---------------|----------------------|
-| DHT22 Data  | PA0           | Pull-up resistor req |
-| SSD1360 SCL | PB6           | I2C Clock            |
-| SSD1360 SDA | PB7           | I2C Data             |
+| DHT22 Data  | PA8           | 10k pull-up resistor  |
+| SSD1360 SCL | PB8           | I2C Clock            |
+| SSD1360 SDA | PB9           | I2C Data             |
 | GND         | GND           | Common ground        |
-| VCC         | 3.3V/5V       | Power supply         |
+| VCC         | 3.3V          | Power supply         |
 
 
 <img width="1024" height="781" alt="Screen-Shot-2021-12-23-at-6 31 42-AM-2048x1556" src="https://github.com/user-attachments/assets/a96e0f7a-d14a-4c10-b510-62e2e223b795" />
