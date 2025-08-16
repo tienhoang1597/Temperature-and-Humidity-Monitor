@@ -9,16 +9,16 @@ F411 microcontroller. The goal is to demonstrate direct register manipulation an
 
 - Reads temperature and humidity from DHT22 sensor
 - Displays readings on SSD1360 OLED
-- Bare-metal code (no libraries except minimal SSD1360 driver)
+- Bare-metal code 
 - Simple and efficient embedded design
 
 ## Hardware Requirements
 
-- STM32F411 microcontroller (e.g., STM32F411CEU6 "Black Pill")
+- STM32F411 microcontroller 
 - DHT22 Temperature & Humidity sensor
 - SSD1360 OLED display (128x64)
 - Jumper wires
-- Breadboard (optional)
+- Breadboard 
 
 ## Wiring Diagram
 
@@ -30,7 +30,8 @@ F411 microcontroller. The goal is to demonstrate direct register manipulation an
 | GND         | GND           | Common ground        |
 | VCC         | 3.3V/5V       | Power supply         |
 
-*(Update pin numbers according to your schematic)*
+![Uploading Screen-Shot-2021-12-23-at-6.31.42-AM-2048x1556.png…]()
+
 
 ## Getting Started
 
