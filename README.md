@@ -31,8 +31,9 @@ F411 microcontroller. The goal is to demonstrate direct register manipulation an
 | VCC         | 3.3V/5V       | Power supply         |
 
 
+<img width="1024" height="781" alt="Screen-Shot-2021-12-23-at-6 31 42-AM-2048x1556" src="https://github.com/user-attachments/assets/a96e0f7a-d14a-4c10-b510-62e2e223b795" />
 
-<img width="1024" height="778" alt="Screen-Shot-2021-12-23-at-6 31 42-AM-2048x1556" src="https://github.com/user-attachments/assets/c9cc220b-5531-433c-92ba-b81b48fd4e0e" />
+
 
 ## Getting Started
 
